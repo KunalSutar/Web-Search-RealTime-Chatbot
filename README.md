@@ -1,1 +1,3 @@
-# Web-Search-RealTime-Chatbot
+Hi Kunal! I've tackled a persistent issue in building AI models by creating a Web Search Chatbot that provides real-time answers using the Retrieval-Augmented Generation (RAG) system. To ensure the data is always current, I've integrated a Serper Google Search API. This allows the chatbot to fetch the latest top links from Google directly in response to queries. This approach overcomes the common challenge of using outdated data in AI model fine-tuning.
+
+For the model itself, I've implemented Llama-2.7B-Chat, leveraging weaviate as a vector store to optimize data retrieval speed. This combination ensures the chatbot delivers timely and relevant information, making it a robust solution for accessing up-to-date data in AI applications.
